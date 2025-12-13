@@ -1,0 +1,29 @@
+1.	Explain in your own words what a program is and how it functions. 
+What is Programming?
+
+
+2.	What are the key steps involved in the programming process?
+Types of Programming Languages
+
+
+What are the main differences between high-level and low-level programminglanguages? What is Programming?
+World Wide Web & How Internet Works
+
+3.	Describe the roles of the client and server in web communication. Network Layers on Client and Server
+4.	Explain the function of the TCP/IP model and its layers. Client and Servers
+5.	Explain Client Server Communication Types of Internet Connections
+6.	How does broadband differ from fiber-optic internet? Protocols
+7.	What are the differences between HTTP and HTTPS protocols? Application Security
+8.	What is the role of encryption in securing applications?
+9.	Software Applications and Its Types
+10.	What is the difference between system software and application software? Software Architecture
+11.	Whatis the significance of modularity in software architecture? Layers in Software Architecture
+12.	Why are layers important in software architecture? Software Environments
+13.	Explain the importance of a development environment in software production. Source Code
+14.	: What is the difference between source code and machine code? Github and Introductions
+15.	Why is version control important in software development? Student Account in Github
+16.	What are the benefits of using Github forstudents? Types of Software
+17.	What are the differences between open-source and proprietary software? GIT and GITHUB Training
+18.	How does GIT improve collaboration in a software development team?
+19.	
+
